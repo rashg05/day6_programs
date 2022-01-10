@@ -1,3 +1,5 @@
+#!/bin/bash -x
+
 read -p "Enter a number: " num
 c=0
 

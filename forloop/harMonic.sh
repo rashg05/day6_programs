@@ -1,4 +1,5 @@
 #!/bin/bash -x
+
 harmonic=1
 read -p "Enter a number : " number
 for (( i=2; i<=$number; i++ ))
